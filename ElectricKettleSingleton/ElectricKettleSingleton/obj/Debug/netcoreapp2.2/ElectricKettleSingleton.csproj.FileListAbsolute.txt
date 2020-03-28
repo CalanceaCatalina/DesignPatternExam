@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\bin\Debug\netcoreapp2.2\ElectricKettleSingleton.deps.json
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\bin\Debug\netcoreapp2.2\ElectricKettleSingleton.runtimeconfig.json
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\bin\Debug\netcoreapp2.2\ElectricKettleSingleton.runtimeconfig.dev.json
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\bin\Debug\netcoreapp2.2\ElectricKettleSingleton.dll
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\bin\Debug\netcoreapp2.2\ElectricKettleSingleton.pdb
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\obj\Debug\netcoreapp2.2\ElectricKettleSingleton.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\obj\Debug\netcoreapp2.2\ElectricKettleSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\obj\Debug\netcoreapp2.2\ElectricKettleSingleton.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\obj\Debug\netcoreapp2.2\ElectricKettleSingleton.AssemblyInfo.cs
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\obj\Debug\netcoreapp2.2\ElectricKettleSingleton.dll
+C:\Users\Home\source\repos\ElectricKettleSingleton\ElectricKettleSingleton\obj\Debug\netcoreapp2.2\ElectricKettleSingleton.pdb

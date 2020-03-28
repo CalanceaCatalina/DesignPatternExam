@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.deps.json
+C:\Users\Home\source\repos\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.runtimeconfig.json
+C:\Users\Home\source\repos\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.runtimeconfig.dev.json
+C:\Users\Home\source\repos\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.dll
+C:\Users\Home\source\repos\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.pdb
+C:\Users\Home\source\repos\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.AssemblyInfo.cs
+C:\Users\Home\source\repos\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.dll
+C:\Users\Home\source\repos\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.pdb
